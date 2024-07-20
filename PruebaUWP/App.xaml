@@ -1,0 +1,21 @@
+﻿<Application
+    x:Class="PruebaUWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:infra="using:PruebaUWP.Infraestructure"
+    xmlns:local="using:PruebaUWP">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- Recurso que traera la clase InstanceLocator a traves de la referencia puesta en infra -->
+            <infra:InstanceLocator x:Key="Locator"/>
+
+            <!-- Url de la API -->
+            <x:String x:Key="UrlAPI_1">https://api.jsonbin.io/v3/b/6670b55be41b4d34e404c04d</x:String>
+            <x:String x:Key="UrlAPI_2">https://api.jsonbin.io/v3/b/6670b60cad19ca34f87a78d2</x:String>
+            <x:String x:Key="UrlAPI_3">https://api.jsonbin.io/v3/b/6670b67cad19ca34f87a78ed</x:String>
+            <x:String x:Key="UrlAPI_4">https://api.jsonbin.io/v3/b/6670b6abe41b4d34e404c0bd</x:String>
+            <x:String x:Key="UrlAPI_5">https://api.jsonbin.io/v3/b/6670b786e41b4d34e404c0f0</x:String>
+            <x:String x:Key="UrlAPI_6">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</x:String>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

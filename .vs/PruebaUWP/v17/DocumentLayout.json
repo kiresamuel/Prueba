@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\PruebaUWP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|c:\\desarrollo\\pruebauwp\\pruebauwp\\viewmodels\\trailer_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\viewmodels\\trailer_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\mainpage.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\mainpage.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\opcionseleccionada.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\opcionseleccionada.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\opcionseleccionada.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\opcionseleccionada.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\opcionseleccionada.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\opcionseleccionada.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\viewmodels\\datospelicula_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\viewmodels\\datospelicula_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\viewmodels\\opcionseleccionada_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\viewmodels\\opcionseleccionada_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|C:\\Desarrollo\\PruebaUWP\\pruebauwp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D793290-92F6-426C-A34A-DC5CF5C79690}|PruebaUWP\\PruebaUWP.csproj|solutionrelative:pruebauwp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PruebaUWP\\MainPage.xaml",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\MainPage.xaml",
+              "RelativeToolTip": "PruebaUWP\\MainPage.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T23:39:51.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trailer_VM.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\Trailer_VM.cs",
+              "RelativeDocumentMoniker": "PruebaUWP\\ViewModels\\Trailer_VM.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\Trailer_VM.cs",
+              "RelativeToolTip": "PruebaUWP\\ViewModels\\Trailer_VM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:38:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpcionSeleccionada.xaml",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\OpcionSeleccionada.xaml",
+              "RelativeDocumentMoniker": "PruebaUWP\\OpcionSeleccionada.xaml",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\OpcionSeleccionada.xaml",
+              "RelativeToolTip": "PruebaUWP\\OpcionSeleccionada.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T22:09:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpcionSeleccionada.xaml.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\OpcionSeleccionada.xaml.cs",
+              "RelativeDocumentMoniker": "PruebaUWP\\OpcionSeleccionada.xaml.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\OpcionSeleccionada.xaml.cs",
+              "RelativeToolTip": "PruebaUWP\\OpcionSeleccionada.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAzwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:42:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpcionSeleccionada.xaml",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\OpcionSeleccionada.xaml",
+              "RelativeDocumentMoniker": "PruebaUWP\\OpcionSeleccionada.xaml",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\OpcionSeleccionada.xaml",
+              "RelativeToolTip": "PruebaUWP\\OpcionSeleccionada.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T17:30:47.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatosPelicula_VM.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\DatosPelicula_VM.cs",
+              "RelativeDocumentMoniker": "PruebaUWP\\ViewModels\\DatosPelicula_VM.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\DatosPelicula_VM.cs",
+              "RelativeToolTip": "PruebaUWP\\ViewModels\\DatosPelicula_VM.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAlwGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:47:57.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpcionSeleccionada_VM.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\OpcionSeleccionada_VM.cs",
+              "RelativeDocumentMoniker": "PruebaUWP\\ViewModels\\OpcionSeleccionada_VM.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\OpcionSeleccionada_VM.cs",
+              "RelativeToolTip": "PruebaUWP\\ViewModels\\OpcionSeleccionada_VM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:44:23.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaUWP\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Desarrollo\\PruebaUWP\\PruebaUWP\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "PruebaUWP\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:24:44.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+C:\Desarrollo\PruebaUWP\PruebaUWP\PruebaUWP.csproj;x86
